@@ -27,5 +27,6 @@ int main() {
 			cout << v << (j == p - 1 ? "\n" : " ");
 		}
 	}
+	
 	return 0;
 }
